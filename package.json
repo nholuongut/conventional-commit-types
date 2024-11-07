@@ -1,0 +1,19 @@
+{
+  "name": "conventional-commit-types",
+  "version": "3.0.0",
+  "description": "List of conventional commit types.",
+  "main": "index.json",
+  "scripts": {
+    "test": "node index.spec"
+  },
+  "keywords": [],
+  "author": "Anders D. Johnson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nholuongut/conventional-commit-types.git"
+  },
+  "devDependencies": {
+    "jsonschema": "^1.4.0"
+  }
+}
